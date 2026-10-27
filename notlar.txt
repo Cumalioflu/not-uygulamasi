@@ -3,3 +3,5 @@ git add: Dosyalari staging alanina ekler
 git commit: Degisiklikleri kaydeder
 git push: Commitleri uzak sunucuya gonderir
 git branch: Dallari listeler ve yonetir
+
+deneme
