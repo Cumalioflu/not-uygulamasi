@@ -1,0 +1,1 @@
+Geliştirici : Cumali (main versiyonu)
